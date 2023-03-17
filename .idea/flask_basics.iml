@@ -7,4 +7,12 @@
     <orderEntry type="jdk" jdkName="Python 3.10 (flask_basics)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
+  <component name="PyNamespacePackagesService">
+    <option name="namespacePackageFolders">
+      <list>
+        <option value="$MODULE_DIR$/templates" />
+        <option value="$MODULE_DIR$/static" />
+      </list>
+    </option>
+  </component>
 </module>
